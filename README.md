@@ -1,1 +1,7 @@
-# SQL-Generator-query
+gradio
+transformers
+torch
+black
+autopep8
+reportlab
+requestsuery
